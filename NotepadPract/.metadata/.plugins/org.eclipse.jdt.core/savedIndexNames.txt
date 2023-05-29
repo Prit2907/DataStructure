@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\patil\OneDrive\Desktop\cdac\POG\NotepadPract\.metadata\.plugins\org.eclipse.jdt.core
+2420995280.index
+3898563714.index
+972302837.index
